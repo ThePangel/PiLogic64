@@ -10,7 +10,7 @@ This is my journal of the design and building process of **PiPico64**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/380).
 
 
-## 10/10/2025 - Research and organization  
+## 10/10/2025 4:20 PM - Research and organization  
 
 Imma get started with explaining what I'm doing.
 
@@ -24,4 +24,14 @@ So I decided I'm gonna make a open source logic puzzle console with a bunch of p
 I did a bunch of research and designed some stuff in my mind and winded up with that, I also will be using a 2.7V battery and a battery charger + buck converter to power the thing.
 
 I spent like, 2 hours, probably more testing circuits with components I have lying around the house, so I have a material list ready, I need to tests the components and design the pcb.  
+
+## 10/10/2025 4:54 PM - Quick correction   
+
+I meant 3.7V, not 2.7)
+V, a 18650 cell to be exact, with the TC4056 as a charging circuit and a buck converter to go up to 5V and power the pico + matrix.
+
+This should power everything and with the Pico's efficiency the main power drawer is the matrix, but brightness will be adjustable, I also forgot to mention I plan to add a buzzer/speaker for little sounds and such
+![Screenshot_2025-10-10-16-54-02-726_com.amazon.mShop.android.shopping-edit.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--c0affaedc754e065d9fadc7acb07cf5fc9938c9e/Screenshot_2025-10-10-16-54-02-726_com.amazon.mShop.android.shopping-edit.jpg)
+
+  
 
