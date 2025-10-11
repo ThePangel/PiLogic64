@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LibrarySym")(type "KiCad")(uri "${KIPRJMOD}/symbols/LibrarySym.kicad_sym")(options "")(descr ""))
+  (lib (name "tp4056_")(type "KiCad")(uri "${KIPRJMOD}/symbols/tp4056_.kicad_sym")(options "")(descr ""))
+)
