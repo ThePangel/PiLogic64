@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **PiPico64**.  
+This is my journal of the design and building process of **PiLogic64**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/380).
 
 
@@ -33,5 +33,22 @@ V, a 18650 cell to be exact, with the TC4056 as a charging circuit and a buck co
 This should power everything and with the Pico's efficiency the main power drawer is the matrix, but brightness will be adjustable, I also forgot to mention I plan to add a buzzer/speaker for little sounds and such
 ![Screenshot_2025-10-10-16-54-02-726_com.amazon.mShop.android.shopping-edit.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--c0affaedc754e065d9fadc7acb07cf5fc9938c9e/Screenshot_2025-10-10-16-54-02-726_com.amazon.mShop.android.shopping-edit.jpg)
 
+  
+
+## 10/11/2025 - PCB and curcuit  
+
+I started working on making the PCB, made a bunch of symbols and most of the circuit
+![Screenshot 2025-10-11 194230.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0MywicHVyIjoiYmxvYl9pZCJ9fQ==--5ba0c743337b9913a8d3660f721a937d0b0d8625/Screenshot%202025-10-11%20194230.png)
+
+I still have the amp, speakers and oled to go but It's mostly done.
+As for the PCB I have an initial wip layout done ![Screenshot 2025-10-11 194056.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a5283a7517b107ab74033400115bd1bae40f0e44/Screenshot%202025-10-11%20194056.png)
+![Screenshot 2025-10-11 194021.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--73e6e6af5f83c337ea12794dfdb9a2223f7ab48b/Screenshot%202025-10-11%20194021.png)
+
+And a better and more complete shopping cart!
+![Screenshot_2025-10-11-19-42-44-899_com.alibaba.aliexpresshd-edit.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--5226dc3b26b66cf00eaa3cf334ac9d51fdbb42fd/Screenshot_2025-10-11-19-42-44-899_com.alibaba.aliexpresshd-edit.jpg)
+
+
+Going quick cause this project is mostly software sooo
+Seya!
   
 
