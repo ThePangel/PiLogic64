@@ -52,3 +52,13 @@ Going quick cause this project is mostly software sooo
 Seya!
   
 
+## 10/12/2025 - Finishing of circuit, PCB layout + research  
+
+I added the speaker amp into the circuit, and made the PCB layout more efficient, it can now fit two cells for extra battery! plus some other icons, and made research on how the amp works + other stuff 
+
+Now I'm onto the 3D modeling for the case and LED diffusion.
+![pilogic641.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2MywicHVyIjoiYmxvYl9pZCJ9fQ==--f3542c40a1841fcbdb74600a291bf2123c640809/pilogic641.jpg)
+![pilogic64.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8ddd07a6d7298934fba49b642cc0d3099a232ad7/pilogic64.jpg)
+![Screenshot 2025-10-12 204116.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--209d431e5d7c93bdc12fd5c07d0018197f897615/Screenshot%202025-10-12%20204116.png)
+  
+
