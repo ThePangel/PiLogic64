@@ -62,11 +62,19 @@ Now I'm onto the 3D modeling for the case and LED diffusion.
 ![Screenshot 2025-10-12 204116.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--209d431e5d7c93bdc12fd5c07d0018197f897615/Screenshot%202025-10-12%20204116.png)
   
 
-## 10/13/2025 - Made a 3D model  
+## 10/13/2025 12 AM - Made a 3D model  
 
 I made a 3d case, it has a door for hot swapping batteries, made on F360 for 3D printing, I will be printing and testing fits tonight, I tried to keep it as thin as possible but 3D printing has its limitations, and I lack some measurements for some components, but all will be fixed with time!
 ![pilogic64 v1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--6033db7b05fe21c37288edb1a3d7a6fe050b8d41/pilogic64%20v1.png)
 ![pilogic64 v1 3.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5MywicHVyIjoiYmxvYl9pZCJ9fQ==--501c79445839d92f0c653c8da330af98a591f7ea/pilogic64%20v1%203.png)
 ![pilogic64 v1 2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f14b4c1302b90e226ac5beda57b9b7244620f6ef/pilogic64%20v1%202.png)
+  
+
+## 10/13/2025 4 PM - Final 3D model and PCB  
+
+I have made some big changes too the 3D model, I saw some issues after printing it myself, some dimension issues that came from the pcb holes, which I have fixed, also usb didn't fit so my bad, fixed that aswell, so last thing I need is a BOM will I will make soon!
+
+  ![pilogic64 v4.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--42f145dfca0ad8a0ee911feb8c5f345371ec3b1c/pilogic64%20v4.png)
+![pilogic64 v4 2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--56c1deaf673060c04c9c36cbe9db29afe10ef64f/pilogic64%20v4%202.png)
   
 
