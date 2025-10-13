@@ -78,3 +78,12 @@ I have made some big changes too the 3D model, I saw some issues after printing 
 ![pilogic64 v4 2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--56c1deaf673060c04c9c36cbe9db29afe10ef64f/pilogic64%20v4%202.png)
   
 
+## 10/13/2025 6 PM - BOM, routing  
+
+Finished routing the PCB, changed SD card orientation cause it ain't fitting any other way.
+![Screenshot 2025-10-13 172104.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d9c4aaf983774fc6b5700ce02b24aa3341e01a85/Screenshot%202025-10-13%20172104.png)
+I have a BOM ready and setup, I use a pico 2 (1 should work) for the brains, a OLED display for menu navigation, an 8x8 matrix as the game screen, two rotary encoder as input, and a audio amp and two speakers for sound. Powering that are two 18650 cells charged by a TP4056 and boosted to 5V, with an SD card to easily and dynamically import games.
+ ![Screenshot 2025-10-13 172042.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--472bca257f08d751c2fdf0db191294cc7c97b489/Screenshot%202025-10-13%20172042.png)
+
+  
+
