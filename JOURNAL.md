@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **PiLogic64**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/380).
-
-
 ## 10/10/2025 4:20 PM - Research and organization  
 
 Imma get started with explaining what I'm doing.
@@ -85,5 +81,14 @@ Finished routing the PCB, changed SD card orientation cause it ain't fitting any
 I have a BOM ready and setup, I use a pico 2 (1 should work) for the brains, a OLED display for menu navigation, an 8x8 matrix as the game screen, two rotary encoder as input, and a audio amp and two speakers for sound. Powering that are two 18650 cells charged by a TP4056 and boosted to 5V, with an SD card to easily and dynamically import games.
  ![Screenshot 2025-10-13 172042.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--472bca257f08d751c2fdf0db191294cc7c97b489/Screenshot%202025-10-13%20172042.png)
 
+  
+
+## 10/21/2025 - Parts arrived! Testing!  
+
+So the parts (But the batteries) got here today! I have been all evening testing each component individually and they all work great' now that I can take the final measurements for everything i will soon finish the PCB + 3D case and then can get to coding everything together!! looking promising!
+(please ignore my mess of a desk)
+ ![DSCF0603.JPG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5NywicHVyIjoiYmxvYl9pZCJ9fQ==--67ce8687b2a01cadc48e3c7e73110b87739c7194/DSCF0603.JPG)
+![DSCF0599.JPG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb73019995948da8c240ce5e005aec0328d6e26d/DSCF0599.JPG)
+![DSCF0597.JPG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b05e9b2ef715b4aa000ca4bdaf2d3374cbb6470d/DSCF0597.JPG)
   
 
