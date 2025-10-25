@@ -92,3 +92,12 @@ So the parts (But the batteries) got here today! I have been all evening testing
 ![DSCF0597.JPG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b05e9b2ef715b4aa000ca4bdaf2d3374cbb6470d/DSCF0597.JPG)
   
 
+## 10/25/2025 - Final PCB + Final 3D model and more!  
+
+I finally finished and ordered the PCB, biggest change is the power switch (totally forgot abt it), I took one from a cheap gift console and used that so I don't need to buy anything, Also finished the case, now the pcb needs to arrive and be assembles and then time to code
+
+![Screenshot 2025-10-25 014624](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--f68a605de44e64ffe5b9764159be4444b409aad1/Screenshot%202025-10-25%20014624.png)
+![Screenshot 2025-10-25 124757](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f4df3bbbaa3882728fd1b436391c3b941ceb048/Screenshot%202025-10-25%20124757.png)![DSCF0628](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--5292cb4e203c8cdfe9d69826e27b3f4167841736/DSCF0628.JPG)
+![Screenshot 2025-10-25 014606](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxNywicHVyIjoiYmxvYl9pZCJ9fQ==--605f10b8b0239f93a843c9b882242675a409a9e3/Screenshot%202025-10-25%20014606.png)
+  
+
