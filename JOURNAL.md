@@ -101,3 +101,11 @@ I finally finished and ordered the PCB, biggest change is the power switch (tota
 ![Screenshot 2025-10-25 014606](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxNywicHVyIjoiYmxvYl9pZCJ9fQ==--605f10b8b0239f93a843c9b882242675a409a9e3/Screenshot%202025-10-25%20014606.png)
   
 
+## 11/5/2025 - Got the PCB, time to solder  
+
+So here is the thing, I SUCK at soldering so this took too much tie cause a bunch of mishaps, but I got it assembled!! I'm waiting for the 3d printed case to print and start coding!! 
+(Sorry for the shit ahh images my phone camera is cracked)
+![IMG_20251105_005729](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--68245176d6d152cace49f5b448a9f56219095542/IMG_20251105_005729.jpg)![IMG_20251105_005725](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--363e3e7fd6fcafeed38cd776959b5b16cf48d39c/IMG_20251105_005725.jpg)
+
+  
+
