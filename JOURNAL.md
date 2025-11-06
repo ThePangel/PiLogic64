@@ -109,3 +109,9 @@ So here is the thing, I SUCK at soldering so this took too much tie cause a bunc
 
   
 
+## 11/6/2025 - Some code & misshaps  
+
+Today I started to code, but because an oversight I broke the pico by stressing the USB port, but fear not, I will desolder it, put some female header conectors and plug a PicoH in there, so its an upgrade since we can now hot swap picos!
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--90c13c9f18191db3dbba346e0abc3b62b36ab840/image.png)
+  
+
