@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **PiLogic64**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/380).
-
-
 ## 10/10/2025 4:20 PM - Research and organization  
 
 Imma get started with explaining what I'm doing.
@@ -84,6 +80,32 @@ Finished routing the PCB, changed SD card orientation cause it ain't fitting any
 ![Screenshot 2025-10-13 172104.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d9c4aaf983774fc6b5700ce02b24aa3341e01a85/Screenshot%202025-10-13%20172104.png)
 I have a BOM ready and setup, I use a pico 2 (1 should work) for the brains, a OLED display for menu navigation, an 8x8 matrix as the game screen, two rotary encoder as input, and a audio amp and two speakers for sound. Powering that are two 18650 cells charged by a TP4056 and boosted to 5V, with an SD card to easily and dynamically import games.
  ![Screenshot 2025-10-13 172042.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--472bca257f08d751c2fdf0db191294cc7c97b489/Screenshot%202025-10-13%20172042.png)
+
+  
+
+## 10/21/2025 - Parts arrived! Testing!  
+
+So the parts (But the batteries) got here today! I have been all evening testing each component individually and they all work great' now that I can take the final measurements for everything i will soon finish the PCB + 3D case and then can get to coding everything together!! looking promising!
+(please ignore my mess of a desk)
+ ![DSCF0603.JPG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5NywicHVyIjoiYmxvYl9pZCJ9fQ==--67ce8687b2a01cadc48e3c7e73110b87739c7194/DSCF0603.JPG)
+![DSCF0599.JPG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb73019995948da8c240ce5e005aec0328d6e26d/DSCF0599.JPG)
+![DSCF0597.JPG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b05e9b2ef715b4aa000ca4bdaf2d3374cbb6470d/DSCF0597.JPG)
+  
+
+## 10/25/2025 - Final PCB + Final 3D model and more!  
+
+I finally finished and ordered the PCB, biggest change is the power switch (totally forgot abt it), I took one from a cheap gift console and used that so I don't need to buy anything, Also finished the case, now the pcb needs to arrive and be assembles and then time to code
+
+![Screenshot 2025-10-25 014624](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--f68a605de44e64ffe5b9764159be4444b409aad1/Screenshot%202025-10-25%20014624.png)
+![Screenshot 2025-10-25 124757](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f4df3bbbaa3882728fd1b436391c3b941ceb048/Screenshot%202025-10-25%20124757.png)![DSCF0628](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--5292cb4e203c8cdfe9d69826e27b3f4167841736/DSCF0628.JPG)
+![Screenshot 2025-10-25 014606](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxNywicHVyIjoiYmxvYl9pZCJ9fQ==--605f10b8b0239f93a843c9b882242675a409a9e3/Screenshot%202025-10-25%20014606.png)
+  
+
+## 11/5/2025 - Got the PCB, time to solder  
+
+So here is the thing, I SUCK at soldering so this took too much tie cause a bunch of mishaps, but I got it assembled!! I'm waiting for the 3d printed case to print and start coding!! 
+(Sorry for the shit ahh images my phone camera is cracked)
+![IMG_20251105_005729](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--68245176d6d152cace49f5b448a9f56219095542/IMG_20251105_005729.jpg)![IMG_20251105_005725](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--363e3e7fd6fcafeed38cd776959b5b16cf48d39c/IMG_20251105_005725.jpg)
 
   
 
