@@ -115,10 +115,3 @@ Today I started to code, but because an oversight I broke the pico by stressing 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--90c13c9f18191db3dbba346e0abc3b62b36ab840/image.png)
   
 
-## 11/9/2025 - Charging IC  
-
-After like an a couple of hours of reading a datasheet, finding components, etc, I have finished my charging circuit with the BQ24074RGTR as the brains!
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--046f3c6625d8daecb3a7dcc1e41c4195b49e3b98/image.png)
-
-  
-
